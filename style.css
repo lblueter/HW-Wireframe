@@ -1,6 +1,6 @@
 header {
     background-color: #ebebeb;
-    width: 100%;
+    width: 920px;
     text-align: center;
     padding: 20px;
     margin-bottom: 10px;
@@ -8,7 +8,7 @@ header {
 }
 nav {
     background-color: #ebebeb;
-    width: 100%;
+    width: 920px;
     text-align: center;
     padding: 20px;
     margin-bottom: 20px;
@@ -19,7 +19,7 @@ body {
     width: 960px;
     color: #777;
     background: #777;
-    margin: 0px 300px 0px 300px;
+    margin: 0px 200px 0px 200px;
 }
 section {
     background-color: #ebebeb;
@@ -36,14 +36,17 @@ article {
     padding: 20px;
     position: relative;
     top: 40px;
+    color: #ebebeb;
 }
 h1 {
     background-color: #ebebeb;
     padding: 20px;
+    color: #777;
 }
 p {
     background-color: #ebebeb;
     padding: 20px;
+    color: #777;
 }
 .aside {
     background-color: #ebebeb;
@@ -57,7 +60,7 @@ p {
 }
 footer {
     background-color: #ebebeb;
-    width: 100%;
+    width: 920px;
     padding: 20px;
     text-align: center;
     clear: both;
